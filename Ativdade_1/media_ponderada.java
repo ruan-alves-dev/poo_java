@@ -1,5 +1,5 @@
 package scaner;
-import java.util.Scanner;
+import java.util.Scnner;
 // import java.lang.Math;
 
 public class area_circulo {
